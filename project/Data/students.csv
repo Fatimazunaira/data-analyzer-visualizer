@@ -1,0 +1,101 @@
+StudentID,Name,Age,Gender,Major,GPA
+1,Ali,20,Male,Computer Science,3.5
+2,Sara,21,Female,Mathematics,3.8
+3,Usman,22,Male,Physics,2.9
+4,Anum,19,Female,Biology,3.2
+5,Rehan,23,Male,Economics,2.8
+6,Hira,20,Female,Computer Science,3.9
+7,Ahmed,24,Male,Mechanical Engineering,2.7
+8,Mehak,22,Female,Software Engineering,3.5
+9,Faizan,21,Male,Civil Engineering,2.6
+10,Nimra,20,Female,Computer Science,3.4
+11,Talha,23,Male,Physics,3.1
+12,Ayesha,22,Female,Biology,3.0
+13,Kashif,19,Male,Mathematics,3.6
+14,Amna,20,Female,Business,2.7
+15,Danish,21,Male,Accounting,3.3
+16,Laiba,22,Female,Statistics,3.9
+17,Bilal,23,Male,Economics,2.9
+18,Fatima,24,Female,Physics,3.0
+19,Zeeshan,21,Male,Mechanical Engineering,2.5
+20,Maria,20,Female,English,3.4
+21,Hassan,22,Male,Chemistry,3.6
+22,Maha,19,Female,Computer Science,3.7
+23,Shahzaib,20,Male,Business,3.2
+24,Noor,21,Female,Software Engineering,3.5
+25,Saad,22,Male,IT,2.8
+26,Areeba,23,Female,Electrical Engineering,3.9
+27,Omer,20,Male,Physics,2.6
+28,Zara,21,Female,Chemistry,3.2
+29,Sami,22,Male,Biology,2.7
+30,Kinza,19,Female,Economics,3.0
+31,Arham,20,Male,Accounting,3.5
+32,Nida,23,Female,Business,3.3
+33,Asad,24,Male,Mathematics,3.1
+34,Ifrah,22,Female,Physics,2.9
+35,Fahad,21,Male,English,3.6
+36,Sana,20,Female,Statistics,3.8
+37,Taimoor,23,Male,Finance,2.7
+38,Hiba,24,Female,Biology,3.2
+39,Sameer,20,Male,Computer Science,3.4
+40,Maham,21,Female,Civil Engineering,2.6
+41,Nouman,22,Male,Electrical Engineering,3.0
+42,Anaya,19,Female,IT,3.1
+43,Jawad,20,Male,Software Engineering,2.9
+44,Yusra,23,Female,Mechanical Engineering,3.5
+45,Murtaza,24,Male,Mathematics,2.8
+46,Sundus,21,Female,Statistics,3.6
+47,Usama,20,Male,Business,3.2
+48,Neha,22,Female,Chemistry,3.3
+49,Imran,21,Male,Finance,3.1
+50,Fiza,19,Female,Accounting,3.7
+51,Shayan,23,Male,IT,2.9
+52,Aleena,24,Female,English,3.8
+53,Kamran,22,Male,Economics,3.0
+54,Ayat,20,Female,Computer Science,3.5
+55,Shoaib,21,Male,Physics,2.6
+56,Inaya,22,Female,Biology,3.3
+57,Zain,20,Male,Business,3.1
+58,Mina,23,Female,Mathematics,3.7
+59,Tariq,24,Male,Chemistry,2.9
+60,Meher,21,Female,Accounting,3.2
+61,Hamza,19,Male,Statistics,3.5
+62,Rida,20,Female,Physics,3.0
+63,Aadil,23,Male,Economics,2.7
+64,Momal,24,Female,Finance,3.6
+65,Adeel,20,Male,Mechanical Engineering,2.8
+66,Ifra,21,Female,Electrical Engineering,3.4
+67,Saif,22,Male,English,3.2
+68,Amani,19,Female,IT,3.5
+69,Shazil,20,Male,Software Engineering,3.1
+70,Zunaira,23,Female,Biology,3.7
+71,Rahim,24,Male,Mathematics,2.6
+72,Falak,21,Female,Physics,3.3
+73,Waleed,22,Male,Chemistry,2.9
+74,Hafsa,20,Female,Economics,3.0
+75,Moiz,23,Male,Finance,3.2
+76,Mahnoor,24,Female,Computer Science,3.8
+77,Nashit,21,Male,Business,2.8
+78,Aqsa,20,Female,Accounting,3.1
+79,Hasan,22,Male,Statistics,3.5
+80,Sherish,19,Female,Physics,3.0
+81,Qasim,23,Male,Biology,2.9
+82,Sabeen,24,Female,Mathematics,3.2
+83,Affan,20,Male,English,3.6
+84,Rameen,21,Female,Finance,2.7
+85,Azlan,22,Male,Economics,3.3
+86,Mishal,20,Female,Business,3.4
+87,Haider,23,Male,Computer Science,3.1
+88,Areesha,24,Female,IT,3.5
+89,Haris,21,Male,Accounting,2.8
+90,Alishba,22,Female,Physics,3.6
+91,Zayan,19,Male,Statistics,3.0
+92,Amber,20,Female,Chemistry,3.2
+93,Raza,23,Male,Finance,3.4
+94,Emaan,24,Female,Biology,3.7
+95,Ahsan,20,Male,Business,2.9
+96,Maheen,21,Female,English,3.5
+97,Tayyab,22,Male,Economics,3.0
+98,Anabia,23,Female,Computer Science,3.6
+99,Furqan,24,Male,Accounting,2.7
+100,Nashwa,19,Female,Statistics,3.3
